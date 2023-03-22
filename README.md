@@ -1,2 +1,6 @@
-# CSE101-Lab3
-CSE101 - Laboratory 3 - Error and exceptions
+# Lab 3: Exceptions
+
+Today, we will learn how to deal with exceptions.
+All the necessary instructions can be found in the slides shared on Brightspace
+
+Good Luck!
